@@ -23,11 +23,17 @@ Predecir el precio del airbnb utilizando los datos disponibles descargados antri
 ### Ejecución
 
 Para poder ejecutar el proyecto, se deberá.
+
 . Crear un directorio de trabajo en nuestro ordenador.
+
 . Copiar el fichero 'MachineLearningPT_V3.ipynb' en el directorio creado.
-. Situados en el directorio de trabajo, crear un nuevo subdirectorio llamado Data
+
+. Situados en el directorio de trabajo, crear un nuevo subdirectorio llamado Data.
+
 . Decargar el fichero de airbnb-listings.csv y copiarlo dentro del directorio Data con el mismo nombre que se indica.
 
 ### Nota
+
 Proyecto realizado con Anaconda y Python 3 
+
 Los comentarios de proyecto están junto con el código.
