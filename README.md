@@ -14,11 +14,16 @@ El conjunto de datos escogido es el del [link](https://public.opendatasoft.com/e
 
 Predecir el precio del airbnb utilizando los datos disponibles descargados antriormente.
 
-• Generación de nuevas características a partir de las existentes
-• Codificación de variables
-• Análisis exploratorio
-• Selección y evaluación del modelo
+• Generación de nuevas características a partir de las existentes.
+
+• Codificación de variables.
+
+• Análisis exploratorio.
+
+• Selección y evaluación del modelo.
+
 • Comparativa de distintos algoritmos
+
 
 ### Ejecución
 
